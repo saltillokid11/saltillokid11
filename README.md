@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @saltillokid11
-- 👀 I’m interested in automating everything
-- 🌱 I’m currently learning how to automate my life
-- 💞️ I pretent my laptop is my best friend
-- 📫 How to reach me here: https://www.linkedin.com/in/tannerlancaster/
+- 👋  Hi, I’m @saltillokid11
+- 👀  I’m interested in automating everything
+- 🌱  I’m currently learning how to automate my life
+- 💞️  I pretent my laptop is my best friend
+- 📫  About me: https://www.linkedin.com/in/tannerlancaster/
 
 <!---
 saltillokid11/saltillokid11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
